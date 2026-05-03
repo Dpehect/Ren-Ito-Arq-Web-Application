@@ -1,6 +1,6 @@
-# Ren Ito Arq - Official Website
+# Ren Ito Arq - Official Website (Freelance Project)
 
-This repository contains the official, modernized codebase for the Ren Ito Architectural Studio website ([ren-ito.com](https://www.ren-ito.com/)). It represents a complete refactor of the original studio's digital presence, leveraging a high-performance stack to match the studio's minimalist and precise architectural philosophy.
+This repository contains the official, modernized codebase for the Ren Ito Architectural Studio website ([ren-ito.com](https://www.ren-ito.com/)). Delivered as a professional freelance engagement, it represents a complete refactor of the original studio's digital presence, leveraging a high-performance stack to match the studio's minimalist and precise architectural philosophy.
 
 ## Technical Architecture
 
@@ -24,9 +24,9 @@ The codebase follows professional engineering standards:
 
 ---
 
-# Ren Ito Arq - Resmi Web Sitesi
+# Ren Ito Arq - Resmi Web Sitesi (Freelance Proje)
 
-Bu depo, Ren Ito Mimarlık Ofisi'nin ([ren-ito.com](https://www.ren-ito.com/)) resmi ve modernize edilmiş kod tabanını içermektedir. Stüdyonun minimalist ve hassas mimari felsefesine uyum sağlamak amacıyla, orijinal dijital varlığın yüksek performanslı teknolojilerle tamamen yeniden yapılandırılmış halini temsil eder.
+Bu depo, Ren Ito Mimarlık Ofisi'nin ([ren-ito.com](https://www.ren-ito.com/)) resmi ve modernize edilmiş kod tabanını içermektedir. Profesyonel bir freelance çalışma olarak teslim edilen bu proje, stüdyonun minimalist ve hassas mimari felsefesine uyum sağlamak amacıyla, orijinal dijital varlığın yüksek performanslı teknolojilerle tamamen yeniden yapılandırılmış halini temsil eder.
 
 ## Teknik Mimari
 
