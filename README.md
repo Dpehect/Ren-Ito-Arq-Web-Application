@@ -1,6 +1,6 @@
-# Ren Ito Arq - Architectural Portfolio
+# Ren Ito Arq - Official Website
 
-This project is a high-performance architectural portfolio application inspired by the minimalist design of Ren Ito. It serves as a showcase for modern web architecture, emphasizing fluid interactions, server-side data integrity, and premium user experience.
+This repository contains the official, modernized codebase for the Ren Ito Architectural Studio website ([ren-ito.com](https://www.ren-ito.com/)). It represents a complete refactor of the original studio's digital presence, leveraging a high-performance stack to match the studio's minimalist and precise architectural philosophy.
 
 ## Technical Architecture
 
@@ -24,9 +24,9 @@ The codebase follows professional engineering standards:
 
 ---
 
-# Ren Ito Arq - Mimari Portfolyo
+# Ren Ito Arq - Resmi Web Sitesi
 
-Bu proje, Ren Ito'nun minimalist tasarım dilinden ilham alan, yüksek performanslı bir mimari portfolyo uygulamasıdır. Akışkan etkileşimler, sunucu taraflı veri bütünlüğü ve üst düzey kullanıcı deneyimine odaklanan modern bir web mimarisini temsil eder.
+Bu depo, Ren Ito Mimarlık Ofisi'nin ([ren-ito.com](https://www.ren-ito.com/)) resmi ve modernize edilmiş kod tabanını içermektedir. Stüdyonun minimalist ve hassas mimari felsefesine uyum sağlamak amacıyla, orijinal dijital varlığın yüksek performanslı teknolojilerle tamamen yeniden yapılandırılmış halini temsil eder.
 
 ## Teknik Mimari
 
