@@ -1,5 +1,4 @@
 :root {
-  /* Colors */
   --bg-primary: #f2f2f2;
   --bg-secondary: #ffffff;
   --fg-primary: #1a1a1a;
@@ -7,11 +6,9 @@
   --accent: #e60012;
   --border: rgba(0, 0, 0, 0.1);
   
-  /* Typography - Fluid System */
   --font-body: 'Inter', sans-serif;
   --font-display: 'Karla', sans-serif;
 
-  /* Font Sizes */
   --text-xs: clamp(0.75rem, 0.7rem + 0.25vw, 0.875rem);
   --text-sm: clamp(0.875rem, 0.8rem + 0.375vw, 1rem);
   --text-base: clamp(1rem, 0.95rem + 0.5vw, 1.125rem);
@@ -20,12 +17,10 @@
   --text-2xl: clamp(2rem, 1.8rem + 2vw, 3.5rem);
   --text-hero: clamp(3.5rem, 3rem + 5vw, 8rem);
 
-  /* Spacing */
   --space-unit: 1rem;
   --section-padding: clamp(4rem, 8vw, 12rem);
   --container-max: 1440px;
 
-  /* Animations */
   --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
   --ease-in-out-quart: cubic-bezier(0.76, 0, 0.24, 1);
 }
@@ -85,7 +80,6 @@ img {
   padding: 0 2rem;
 }
 
-/* Custom Scrollbar for the Minimalist Look */
 ::-webkit-scrollbar {
   width: 6px;
 }
@@ -103,7 +97,6 @@ img {
   background: var(--accent);
 }
 
-/* Selection */
 ::selection {
   background-color: var(--accent);
   color: white;

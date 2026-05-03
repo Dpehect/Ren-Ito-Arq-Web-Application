@@ -20,7 +20,6 @@ export function ContentSection({ title, description, image, reverse = false }: C
     offset: ["start end", "end start"]
   });
 
-  // Subtle parallax: moves the image slightly slower than the scroll
   const y = useTransform(scrollYProgress, [0, 1], [-50, 50]);
 
   return (
@@ -41,7 +40,6 @@ export function ContentSection({ title, description, image, reverse = false }: C
           flexWrap: 'wrap'
         }}
       >
-        {/* Text Column */}
         <motion.div 
           initial="initial"
           whileInView="animate"
@@ -72,7 +70,6 @@ export function ContentSection({ title, description, image, reverse = false }: C
           </motion.div>
         </motion.div>
 
-        {/* Image Column */}
         <motion.div 
           initial={{ opacity: 0, clipPath: 'inset(0% 100% 0% 0%)' }}
           whileInView={{ opacity: 1, clipPath: 'inset(0% 0% 0% 0%)' }}

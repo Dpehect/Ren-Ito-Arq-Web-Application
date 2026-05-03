@@ -1,9 +1,5 @@
 import { Project } from '@/types/project';
 
-// Mock data - In a real app, this would use Prisma: 
-// import prisma from '@/lib/prisma';
-// export const getProjects = async () => await prisma.project.findMany();
-
 const mockProjects: Project[] = [
   {
     id: '1',
@@ -35,7 +31,5 @@ const mockProjects: Project[] = [
 ];
 
 export async function getProjects(): Promise<Project[]> {
-  // Simulating DB latency
-  // await new Promise(resolve => setTimeout(resolve, 500));
   return mockProjects;
 }
